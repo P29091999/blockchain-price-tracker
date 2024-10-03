@@ -55,16 +55,16 @@ This is a NestJS-based blockchain price tracker that uses Moralis APIs to fetch 
    Create a `.env` file in the root of the project and add the following variables:
 
    ```env
-   DB_HOST=your_database_host
-   DB_PORT=your_database_port
-   DB_USERNAME=your_database_username
-   DB_PASSWORD=your_database_password
-   DB_DATABASE=your_database_name
-   MAIL_HOST=your_smtp_host
-   MAIL_PORT=your_smtp_port
-   MAIL_USER=your_smtp_username
-   MAIL_PASS=your_smtp_password
-   MORALIS_API_KEY='
+   DB_HOST=''
+   DB_PORT=''
+   DB_USERNAME=''
+   DB_PASSWORD=''
+   DB_DATABASE=''
+   MAIL_HOST=''
+   MAIL_PORT=''
+   MAIL_USER=''
+   MAIL_PASS=''
+   MORALIS_API_KEY=''
    ```
 
 5. **Run the Application**:
@@ -110,7 +110,7 @@ This is a NestJS-based blockchain price tracker that uses Moralis APIs to fetch 
     {
       "chain": "ethereum",
       "price": 2000,
-      "email": "user@example.com"
+      "email": "test@gmail.com"
     }
     ```
 
