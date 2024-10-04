@@ -1,7 +1,3 @@
-Here's an updated `README.md` file for your project with the requested details:
-
----
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -151,7 +147,3 @@ You can use this endpoint to explore all available routes, their parameters, and
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-This `README.md` provides detailed information on how to set up, run, and use the NestJS blockchain price tracker application. Ensure you replace the placeholder URLs and other details with your actual repository and project information. Let me know if you need any further details or adjustments!
